@@ -98,3 +98,10 @@
 ## 📝 许可证
 
 本项目采用 [MIT License](LICENSE)。
+
+
+## 📝 English Abstract
+
+This repository contains the complete code for the paper **"Data-Driven Closed-Loop Modeling and Dynamic Optimization of Shared Bike Tidal Scheduling"**. It implements a full pipeline from data cleaning, H3 spatial indexing, K-Means clustering, LightGBM demand prediction, satisfaction-driven scheduling optimization, to CVRP-TW vehicle routing, based on ~240 million real trip records in Shenzhen, China.
+
+For detailed usage, please refer to the Chinese README above.
